@@ -1,0 +1,13 @@
+gulp default (usual task to build and watch)
+gulp build (usual task to build only)
+gulp html
+gulp sass
+gulp sass:watch
+gulp js
+gulp js:watch
+gulp fonts
+gulp libs
+gulp clean (task to delete dist folder)
+
+to ext - npm install --save-dev
+npm i gulp --save-dev
